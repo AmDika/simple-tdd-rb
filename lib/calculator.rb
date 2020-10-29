@@ -8,8 +8,10 @@ class Calculator
   end
 
   def divide(a,b)
+   a / b
   end
   
   def substract(a,b)
+   a - b
   end
 end
