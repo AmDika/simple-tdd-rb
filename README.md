@@ -1,5 +1,5 @@
 ## Simple test ruby RSpec
-source learn (link)[https://www.theodinproject.com/courses/ruby-programming/lessons/introduction-to-rspec]
+source learn [link](https://www.theodinproject.com/courses/ruby-programming/lessons/introduction-to-rspec)
 
 ## how to run
 
